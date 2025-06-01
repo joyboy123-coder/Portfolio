@@ -5,7 +5,7 @@
 
 ## 📌 Skills
 - **Languages:** Python, SQL  
-- **Tools & Technologies:** Pandas, Snowflake, Kafka, dbt, Airflow (basics), Git  
+- **Tools & Technologies:** Pandas, Snowflake, dbt, Git  
 - **Focus Areas:** ETL development, data cleaning, real-time pipelines, data transformation
 
 ---
