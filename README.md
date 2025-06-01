@@ -29,5 +29,5 @@
 ## 📫 Contact
 - GitHub: [joyboy123-coder](https://github.com/joyboy123-coder)
 - Email: vamsikandregula537@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/vamsi-k-7b1756252/)]
+- LinkedIn: https://www.linkedin.com/in/vamsi-k-7b1756252/
 
