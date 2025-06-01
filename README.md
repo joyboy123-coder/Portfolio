@@ -28,6 +28,6 @@
 
 ## 📫 Contact
 - GitHub: [joyboy123-coder](https://github.com/joyboy123-coder)
-- Email: your-email@example.com
-- LinkedIn: [your-link-here]
+- Email: vamsikandregula537@gmail.com
+- LinkedIn: [(https://www.linkedin.com/in/vamsi-k-7b1756252/)]
 
